@@ -29,6 +29,6 @@ Cross-validation using the training set
 
 ## Suggestion
 
-For a deeper understanding of the main code of the project, contained in the "Python Code" folder, it is suggested to read the "Emotion Detection Project - LATEX" document along the performed tasks, since it contains the main comments and results.
+For a deeper understanding of the main code of the project, contained in the "Python Code" folder, it is suggested to read the "Sentiment Analysis Project - LATEX" document along the performed tasks, since it contains the main comments and results.
 
 Thank you, Francesco Lazzara
